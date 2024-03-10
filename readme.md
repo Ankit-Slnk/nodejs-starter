@@ -70,3 +70,9 @@
     ```
     npm start
     ```
+
+11. open below link in browser or in postman witk `GET` method to see output `Hello World !!!`
+
+    ```
+    http://localhost:4001
+    ```
