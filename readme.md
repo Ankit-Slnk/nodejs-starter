@@ -4,7 +4,9 @@
 
 1. create project
 
+    ```
     npm init
+    ```
 
 2. install express
 
