@@ -4,15 +4,15 @@
 
 1. create project
 
-    >npm init
+    npm init
 
 2. install express
 
-    >npm install express
+    npm install express
 
 3. install dotenv
 
-    >npm install dotenv
+    npm install dotenv
 
 4. create .env file with below content
 
